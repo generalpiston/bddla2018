@@ -28,6 +28,8 @@ The solution is available under the `solution` branch.
 
 See the [documentation](https://wiki.parity.io/Private-development-chain) on how to turn parity into a development chain.
 
+I've deployed this to bddla.mobidex.io. It'll be up until September 16, 2018.
+
 # References
 
 * https://blog.ethereum.org/2015/09/14/on-slow-and-fast-block-times/
